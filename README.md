@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on our system for our capstone project
+- 🌱 I’m currently learning python
+- 
+
 <!--
 **jhnxcrlo/jhnxcrlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
