@@ -6,7 +6,7 @@
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/jhnxcrlo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F5C4E&center=true&vCenter=true&width=560&lines=Full-stack+developer+from+the+Philippines+🇵🇭;I+build+systems+that+clinics+use+every+day+🏥;Django+%2B+React+%2B+TypeScript+⚡;Powered+by+coffee+and+bike+rides+☕🚴" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F5C4E&center=true&vCenter=true&width=560&lines=Full-stack+developer+from+the+Philippines;I+build+systems+that+clinics+use+every+day;Django+%2B+React+%2B+TypeScript;Powered+by+coffee+and+bike+rides" alt="Typing intro" />
   </a>
 </p>
 
