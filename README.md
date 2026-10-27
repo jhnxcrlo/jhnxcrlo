@@ -1,50 +1,105 @@
-# 👋 Hi there, I'm John Carlo!
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C4E,100:2E8B57&height=180&section=header&text=Hi,%20I'm%20John%20Carlo%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Welcome to my GitHub profile! I'm a developer who loves building useful, real-world systems, from the database all the way to the screen people click on.
+<!-- Typing intro -->
+<p align="center">
+  <a href="https://github.com/jhnxcrlo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F5C4E&center=true&vCenter=true&width=560&lines=Full-stack+developer+from+the+Philippines+🇵🇭;I+build+systems+that+clinics+use+every+day+🏥;Django+%2B+React+%2B+TypeScript+⚡;Powered+by+coffee+and+bike+rides+☕🚴" alt="Typing intro" />
+  </a>
+</p>
 
-## 🚀 Current Projects
-- 🏥 **Clinic EMR**: a full electronic medical records system for a diabetes care clinic, used by doctors, nurses and front-desk staff every day
-  - Live patient queue with stations for the nurse and the doctor, plus a waiting-room TV that calls patients by number and name
-  - Visit notes (encounters), prescriptions with print-ready forms, appointments with a calendar view, and a patient dashboard with charts
-  - Role-based access (admin, doctor, nurse, receptionist), audit logs, and patient privacy built in
-  - Built with **Django REST Framework** + **React / TypeScript**, deployed on **Render** and **Vercel**
-- 🌱 Always learning: getting better at **Python**, **TypeScript**, and good UI/UX
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhnxcrlo&label=Profile%20views&color=0F5C4E&style=flat" alt="Profile views" />
+</p>
 
-## 🛠️ Skills and Tools
+---
 
-**Languages**
+### 🧑‍💻 About me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```python
+class JohnCarlo:
+    def __init__(self):
+        self.location   = "Philippines 🇵🇭"
+        self.role       = "Full-stack Developer"
+        self.building   = "A clinic EMR used by doctors, nurses and front desk staff"
+        self.stack      = ["Python", "Django", "TypeScript", "React"]
+        self.learning   = ["Better UI/UX", "Clean architecture", "More Python 🐍"]
+        self.hobbies    = ["Reading tech blogs 📚", "Biking to new places 🚴‍♂️"]
 
-**Backend & Database**
+    def motto(self):
+        return "Build it simple. Make it useful. Ship it."
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+me = JohnCarlo()
+```
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+### 🏥 What I'm building: Clinic EMR
 
-**Deploy & Tools**
+> A full electronic medical records system for a diabetes care clinic, used in real life every day.
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```
+  🚶 Arrives  ➜  🩺 Nurse  ➜  📋 Ready  ➜  👨‍⚕️ Doctor  ➜  ✅ Done
+     check-in      vitals      queue         visit        signed note
+```
 
-## 📊 GitHub Stats
-![John Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhnxcrlo&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnxcrlo&layout=compact&hide_border=true)
+<details>
+<summary><b>✨ See what it can do</b></summary>
+<br>
 
-## 🎯 Hobbies & Interests
-- 📚 Reading tech blogs and coding stuff
-- 🚴‍♂️ Exploring new places on my bike
+| Feature | What it does |
+|---|---|
+| 📺 **Live queue + TV display** | Calls the patient's number and name out loud in the waiting room |
+| 🩺 **Shared encounters** | The nurse records vitals, then the doctor finishes and signs the same note |
+| 💊 **Quick Rx** | Prescriptions with a live print preview and one-click common medicine sets |
+| 📅 **Smart appointments** | Calendar board, open slots, and a list of who needs rebooking |
+| 📊 **Dashboard** | Animated charts, follow-up reminders, and patients who need attention |
+| 🔐 **Privacy first** | Role-based access, audit logs, and patient data kept safe |
 
-## 💬 Ask me about
-Django, React, building systems for clinics, or good bike routes 🚴‍♂️
+</details>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,vite,postgres,mysql,git,github,vercel&perline=11" />
+</p>
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jhnxcrlo&show_icons=true&hide_border=true&title_color=0F5C4E&icon_color=2E8B57&text_color=555" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhnxcrlo&layout=compact&hide_border=true&title_color=0F5C4E&text_color=555" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jhnxcrlo&hide_border=true&ring=0F5C4E&fire=2E8B57&currStreakLabel=0F5C4E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhnxcrlo&bg_color=ffffff&color=0F5C4E&line=2E8B57&point=0F5C4E&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🎲 Fun facts
+
+- 🐛 I've fixed more bugs at 2 AM than I'd like to admit
+- 🚴‍♂️ My best ideas come halfway through a bike ride
+- ☕ Coffee → code → coffee → `git commit`
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:0F5C4E&height=100&section=footer" />
+</p>
